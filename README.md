@@ -1,4 +1,5 @@
 # Assignment2-Vipparthi
-<h1>Roopin Vipparthi</h1>
-<h6>Burger</h6>
-<b>Burger</b> is a sandwitch consisting one or more</b> cooked patties.Quality</b> is everything</b> thats why in the world where</b> food is over processed.
+# Vipparthi ROOPIN
+###### MUTTON DUM BIRYANI
+ Mutton Dum Biryani Recipe is a biryani recipe that is packed with flavours of the caramelized onions and the spices. In this briyani the mutton is cooked and then layered with half cooked basmati rice, caramelized onions, saffron milk and fresh mint leaves
+ 
