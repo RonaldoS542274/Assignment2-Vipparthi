@@ -27,4 +27,15 @@
 
 [About Me](https://github.com/RonaldoS542274/Assignment2-Vipparthi/blob/main/Aboutme.md)
 
+---
 
+### Interesting places to visit
+  There are many places to visit.Many people will come to visit and also from outside countries people will visit.
+
+  | Location | Hours | Money |
+    ---        ---     ---
+  | Taj mahal | five | $100 |
+  | War fort  | seven | $500 |
+  | Osman sagar | eight | $700 |
+  | Golcando fort | nine | $900 |
+  
