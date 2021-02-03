@@ -46,5 +46,29 @@
   > "And now you dont have to be perfect just be good" - *John steinbeck*
 
   ---
-  
 
+  ### Kojo
+  > Kojo is a programming language and integrated development environment (IDE) for computer programming and learning.
+   [About kojo](https://en.wikipedia.org/wiki/Kojo_(learning_environment))
+   
+   ```
+Tree sample code in Kojo programming language:
+
+def tree(distance: Double) {
+  if (distance > 4) {
+    val ang = 25
+    val adel = 20
+    setPenThickness(distance/7)
+    setPenColor(color(distance.toInt, math.abs(255-distance*3).toInt, 125))
+    forward(distance)
+    right(ang)
+    tree(distance*0.8-2)
+    left(ang + adel)
+    tree(distance-10)
+    right(adel)
+    back(distance)
+  }
+}
+
+   ```
+[About code](https://www.assignmenthelp.net/game/kojo-programming-language)
