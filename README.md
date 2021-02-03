@@ -25,4 +25,6 @@
       * Joma
 * Wear guard compulsary to avoid injuries.
 
+[About Me](https://github.com/RonaldoS542274/Assignment2-Vipparthi/blob/main/Aboutme.md)
+
 
