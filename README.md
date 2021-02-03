@@ -39,3 +39,12 @@
   | Osman sagar | eight | $700 |
   | Golcando fort | nine | $900 |
 
+  ---
+
+  ### Writing quotes
+  > "All arts is a kind of confession" - *James Baldwin* <br>
+  > "And now you dont have to be perfect just be good" - *John steinbeck*
+
+  ---
+  
+
